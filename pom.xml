@@ -11,6 +11,8 @@
 	<groupId>com.eazybytes</groupId>
 	<artifactId>accounts</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<!--	This tells Maven to package the project as a JAR file.-->
+	<packaging>jar</packaging>
 	<name>accounts</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
